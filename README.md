@@ -5,6 +5,5 @@ https://www.facebook.com/profile.php?id=100062982263301
 make a 3d scan and convert to mesh, see wiki
 
 ## cad/cam
-make a model
-
-## make a mould or mockup
+- make a model
+- make a mould or mockup
